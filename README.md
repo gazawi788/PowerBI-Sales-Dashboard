@@ -71,5 +71,11 @@ A preview of the dashboard is available in `dashboard.png`.
 ## 📁 Repository Files
 - `Sales_Dashboard.pbix` : Power BI report file
 - `AdventureWorks_Database.xlsx` : Main dataset
+
+
+
+## 🔎 
+Power BI, Data Analysis, Business Intelligence, Dashboard, Star Schema,
+Excel Analytics, Sales Analysis
 - `Budget.xlsx` : Budget dataset
 - `dashboard.png` : Dashboard preview
